@@ -17,7 +17,7 @@ ItiMobile is stable. Pull Requests [are welcome](https://github.com/DiSiqueira/I
 ### Go Get
 
 ```bash
-$ go get github.com/disiqueira/itibot
+$ go get github.com/disiqueira/itimobile
 ```
 
 ## Basic usage
